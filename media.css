@@ -1,0 +1,47 @@
+#navbar {
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+
+#home{
+ height: 570px;
+
+}
+#home::before{
+    height: 580px;
+}
+#home p{
+    font-size: 0.8rem;
+}
+
+.h-primary {
+    font-size: 2rem;
+}
+div.row {
+    flex-direction: column;
+    overflow: hidden;
+}
+.col-4{
+    width: 100%;
+}
+div.icon {
+
+}
+
+label{
+    overflow: hidden;
+    font-size: 30px;
+}
+p {
+    overflow: hidden;
+}
+    .btn{
+        font-size: 13px;
+        padding-bottom: 8px;
+    }
+}
+/* utility classes*/
